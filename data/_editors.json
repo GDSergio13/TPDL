@@ -1,0 +1,21 @@
+[
+    {
+        "role": "owner",
+        "members": [
+            {
+                "name": "GDSergio13",
+                "link": "https://www.youtube.com/@GDsergio13"
+            }
+        ]
+    },
+ 
+    {       "role": "dev",
+            "members": [
+                {
+                    "name": "GDSergio13",
+                    "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
+                }
+                                }
+            ]
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "id": Main Level,
+    "name": "Deadlocked",
+    "author": "RobTop",
+    "creators": [RobTop],
+    "verifier": "RobTop",
+    "verification": "https://youtu.be/reZj2Xbt05Q?si=iWOgRLrPcpFvc1sw",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+	    {
+			"user": "Stockman",
+			"link": "Beat it on call",
+			"percent": 100,
+			"hz": 60
+		}
+]
+}
